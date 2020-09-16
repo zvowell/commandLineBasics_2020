@@ -18,13 +18,4 @@ conda env export --no-builds -f environment.yml
 ```
 
 Note that the only libraries available to you will be the ones specified in
-the `environment.yml`, so be sure to include everything that you need! 
-
-Also note that conda will possibly try to include OS-specific packages in `environment.yml`, so you
-may have to manually prune `environment.yml` to get rid of these packages. Confirmed Mac-OSX-specific
-packages that should be removed are:
-
-* libcxxabi=4.0.1
-* appnope=0.1.0
-* libgfortran=3.0.1
-* libcxx=4.0.1
+the `environment.yml`, so be sure to include everything that you need!
