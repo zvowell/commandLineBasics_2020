@@ -1,6 +1,5 @@
 apt-utils
 nano
+open
 tzdata
-libncurses5-dev
-libncursesw5-dev
 man-db
