@@ -1,5 +1,4 @@
 apt-utils
 nano
-open
 tzdata
 man-db
