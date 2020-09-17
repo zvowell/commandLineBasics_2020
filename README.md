@@ -1,4 +1,4 @@
-# Intro to Command Line Workshop (Kennedy Library, Cal Poly)
+# Intro to Command Line Workshop
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/zvowell/commandLineBasics_2020/main?urlpath=lab)
 
