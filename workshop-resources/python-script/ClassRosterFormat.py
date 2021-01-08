@@ -43,6 +43,6 @@ def parser(filePath):
     final.to_csv(filePath[:-4] + "_output.csv") 
     
 def main():
-    parser(sys.argv[50])
+    parser(sys.argv[1])
     
 main()
