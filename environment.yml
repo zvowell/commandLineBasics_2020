@@ -1,0 +1,5 @@
+name: command-line-basics
+channels:
+  - conda-forge
+dependencies:
+  - pandas
