@@ -13,4 +13,5 @@ The `environment.yml` lists all Python libraries on which the Binder environment
 depends
 
 The `apt.txt` file lists all the Bash apt packages that will be installed when the environment is launched.
+
 The folder `workshop-resources` contains text files, image files, scripts, and other data that is used in the workshop.
