@@ -12,5 +12,5 @@ https://mybinder.org/v2/gh/zvowell/commandLineBasics_2020/main?urlpath=lab
 The `environment.yml` lists all Python libraries on which the Binder environment
 depends
 
-The `apt.txt` file lists all the Bash apt packages that will be installed when the environment is launched.
+The `apt.txt` file lists all the Bash apt packages that will be installed when the notebook is launched.
 The folder `workshop-resources` contains text files, image files, scripts, and other data that is used in the workshop.
