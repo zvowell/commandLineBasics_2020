@@ -7,7 +7,7 @@ import sys
 def parser(filePath):
     df = pd.read_csv(filePath)
 
-    dfdrop = df.drop([0, 1, 2, 3, 4, 5, 6])
+    dfdrop = df.drop([0, 1, 2, 3, 4, 5])
 
     dffiltered = dfdrop.iloc[1:, 1:3]
     names = dffiltered['Unnamed: 2']
